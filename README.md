@@ -1,16 +1,10 @@
-## Hi there 👋
+## Hello there 👋
 # About me
 
 **johsua25/johsua25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... Computer Science
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... My life
-- 💬 Ask me about ... idk
-- 📫 How to reach me: ... my wa
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... fav movie: Pulp Fiction
+- 🌱 I’m currently learning Computer Science and Mathematics
+- 📫 How to reach me: johsuamaniagasi10@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: my fav. movie is Pulp Fiction
 
